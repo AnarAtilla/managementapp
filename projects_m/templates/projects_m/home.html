@@ -1,0 +1,19 @@
+<!-- projects_m/templates/projects_m/home.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+</head>
+<body>
+    <h1>Welcome to the Project Management App</h1>
+    <ul>
+        <li><a href="{% url 'user-list-create' %}">Users API</a></li>
+        <li><a href="{% url 'project-list-create' %}">Projects API</a></li>
+        <li><a href="{% url 'task-list-create' %}">Tasks API</a></li>
+        <li><a href="{% url 'admin:index' %}">Admin Panel</a></li>
+        <li><a href="{% url 'login' %}">Login</a></li>
+        <li><a href="{% url 'register' %}">Register</a></li>
+    </ul>
+</body>
+</html>
