@@ -27,7 +27,7 @@
 ### Клонирование репозитория
 
 ```bash
-git clone https://github.com/yourusername/project-management-app.git
+git clone https://github.com/AnarAtilla/managementapp.git
 cd project-management-app
 
 # Создание виртуального окружения
