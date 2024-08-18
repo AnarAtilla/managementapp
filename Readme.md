@@ -85,7 +85,9 @@ git push origin feature/some-feature
 
 
 ## Лицензия
-Этот проект лицензирован под лицензией MIT. Подробности см. в файле [LICENSE](docs/LICENSE).
+
+Этот проект лицензирован под лицензией MIT. Подробности см. в файле [LICENSE.txt](LICENSE.txt).
+
 
 
 ### Примечания:
